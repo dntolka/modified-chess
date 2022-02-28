@@ -3,7 +3,7 @@
 
 For this game , three clients were made :
 
-        1] Client.java -> is for αβ-pruning
+        1] Client.java -> is for ab-pruning
         2] Client2.java -> is for minimax
         3] Client3.java -> is for MCTS
 
